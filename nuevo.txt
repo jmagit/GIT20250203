@@ -1,4 +1,5 @@
 Creado en la rama master 
 mezclo con main
-desincronizo
+des sincronizo
+dejo pendiente
 desde otro usuario
