@@ -2,3 +2,4 @@ Creado en la rama master
 mezclo con main
 des sincronizo
 dejo pendiente
+desde otro usuario
