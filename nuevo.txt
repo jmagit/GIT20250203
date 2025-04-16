@@ -3,3 +3,4 @@ mezclo con main
 des sincronizo
 dejo pendiente
 desde otro usuario
+para hacer un pull request
